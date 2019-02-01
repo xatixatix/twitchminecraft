@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2019-01-24 17:26:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2019-01-22 20:36:27 +0100"
@@ -242,6 +248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-01-24 20:50:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-01-22 19:11:42 +0100"
@@ -278,7 +290,8 @@
       "cooked_mutton": "2019-01-23 18:32:12 +0100",
       "cooked_beef": "2019-01-20 21:22:19 +0100",
       "baked_potato": "2019-01-23 19:12:05 +0100",
-      "mutton": "2019-01-23 19:12:00 +0100"
+      "mutton": "2019-01-23 19:12:00 +0100",
+      "bread": "2019-01-24 18:14:18 +0100"
     },
     "done": false
   },
@@ -378,13 +391,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-01-20 20:52:11 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-01-20 20:52:11 +0100"
     },
@@ -435,6 +448,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2019-01-21 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-01-24 20:50:18 +0100"
     },
     "done": true
   },
@@ -579,6 +598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-01-24 20:51:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2019-01-20 20:45:37 +0100"
@@ -654,6 +679,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2019-01-20 19:57:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-01-24 18:42:39 +0100"
     },
     "done": true
   },
@@ -1059,6 +1090,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2019-01-24 17:26:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-01-24 18:42:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-01-20 20:56:37 +0100"
@@ -1137,6 +1180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2019-01-24 20:50:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-01-22 19:08:02 +0100"
@@ -1176,6 +1225,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2019-01-22 19:12:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-01-24 18:42:39 +0100"
     },
     "done": true
   },
@@ -1248,6 +1303,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-01-21 19:58:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2019-01-24 17:26:41 +0100"
     },
     "done": true
   },
@@ -1367,15 +1428,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-01-24 20:33:06 +0100",
       "minecraft:forest": "2019-01-20 20:09:56 +0100",
       "minecraft:mountains": "2019-01-23 17:10:50 +0100",
       "minecraft:taiga": "2019-01-16 16:41:23 +0100",
+      "minecraft:deep_cold_ocean": "2019-01-25 19:05:15 +0100",
       "minecraft:taiga_hills": "2019-01-16 16:41:32 +0100",
       "minecraft:birch_forest": "2019-01-23 17:04:57 +0100",
+      "minecraft:snowy_beach": "2019-01-24 20:54:32 +0100",
+      "minecraft:deep_lukewarm_ocean": "2019-01-24 20:52:11 +0100",
       "minecraft:beach": "2019-01-21 20:11:24 +0100",
       "minecraft:dark_forest": "2019-01-22 19:19:57 +0100",
       "minecraft:lukewarm_ocean": "2019-01-22 19:12:03 +0100",
       "minecraft:river": "2019-01-20 20:29:31 +0100",
+      "minecraft:birch_forest_hills": "2019-01-25 19:07:06 +0100",
       "minecraft:wooded_mountains": "2019-01-23 19:11:08 +0100",
       "minecraft:wooded_hills": "2019-01-20 20:09:54 +0100",
       "minecraft:stone_shore": "2019-01-23 17:10:45 +0100",
@@ -1447,6 +1513,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "nether_wart": "2019-01-23 20:59:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2019-01-24 17:26:41 +0100"
     },
     "done": true
   },

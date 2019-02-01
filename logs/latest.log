@@ -1,148 +1,148 @@
-[18:16:28] [main/INFO]: Loaded 0 recipes
-[18:16:29] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[18:16:29] [Server thread/INFO]: Loading properties
-[18:16:29] [Server thread/INFO]: Default game type: SURVIVAL
-[18:16:29] [Server thread/INFO]: Generating keypair
-[18:16:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:16:29] [Server thread/INFO]: Using default channel type
-[18:16:30] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
-[18:16:34] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
-[18:16:34] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
-[18:16:34] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-3-160
-[18:16:34] [Server thread/INFO]: [dynmap] version=git-Bukkit-a4c555b (MC: 1.13.2)
-[18:16:34] [Server thread/INFO]: [dynmap] Mod Support API available
-[18:16:34] [Server thread/INFO]: [HealthBar] Loading HealthBar v1.8.3
-[18:16:34] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v2.1.7
-[18:16:34] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
-[18:16:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:16:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:16:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:16:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:16:34] [Server thread/INFO]: Preparing level "world"
-[18:16:34] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:16:35] [Server thread/INFO]: Loaded 524 recipes
-[18:16:37] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: 3595849976629534352)
-[18:16:37] [Server thread/INFO]: Preparing spawn area: 4%
-[18:16:38] [Server thread/INFO]: Preparing spawn area: 8%
-[18:16:38] [Server thread/INFO]: Preparing spawn area: 12%
-[18:16:38] [Server thread/INFO]: Preparing spawn area: 16%
-[18:16:38] [Server thread/INFO]: Preparing spawn area: 20%
-[18:16:38] [Server thread/INFO]: Preparing spawn area: 24%
-[18:16:38] [Server thread/INFO]: Preparing spawn area: 28%
-[18:16:38] [Server thread/INFO]: Preparing spawn area: 32%
-[18:16:38] [Server thread/INFO]: Preparing spawn area: 36%
-[18:16:38] [Server thread/INFO]: Preparing spawn area: 40%
-[18:16:38] [Server thread/INFO]: Preparing spawn area: 44%
-[18:16:38] [Server thread/INFO]: Preparing spawn area: 48%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 52%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 56%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 60%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 64%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 68%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 72%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 76%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 80%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 84%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 88%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 92%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 96%
-[18:16:39] [Server thread/INFO]: Preparing spawn area: 100%
-[18:16:39] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: 3595849976629534352)
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 4%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 8%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 12%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 16%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 20%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 24%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 28%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 32%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 36%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 40%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 44%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 48%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 52%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 56%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 60%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 64%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 68%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 72%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 76%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 80%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 84%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 88%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 92%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 96%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 100%
-[18:16:40] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: 3595849976629534352)
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 4%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 8%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 12%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 16%
-[18:16:40] [Server thread/INFO]: Preparing spawn area: 20%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 24%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 28%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 32%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 36%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 40%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 44%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 48%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 52%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 56%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 60%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 64%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 68%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 72%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 76%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 80%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 84%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 88%
-[18:16:41] [Server thread/INFO]: Preparing spawn area: 92%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 96%
-[18:16:42] [Server thread/INFO]: Preparing spawn area: 100%
-[18:16:42] [Server thread/INFO]: Time elapsed: 4848 ms
-[18:16:42] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[18:16:42] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[18:16:42] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[18:16:42] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-3-160
-[18:16:43] [Server thread/INFO]: [dynmap] Added 11 custom biome mappings
-[18:16:43] [Server thread/INFO]: [dynmap] Using PermissionsEx 1.23.4 for access control
-[18:16:44] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[18:16:45] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
-[18:16:45] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[18:16:45] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[18:16:46] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[18:16:46] [Server thread/INFO]: [dynmap] version 3.0-beta-3-160 is enabled - core version 3.0-beta-3-160
-[18:16:46] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
-[18:16:46] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[18:16:46] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[18:16:46] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[18:16:46] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[18:16:46] [Server thread/INFO]: [dynmap] Enabled
-[18:16:46] [Server thread/INFO]: [HealthBar] Enabling HealthBar v1.8.3
-[18:16:46] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v2.1.7
-[18:16:46] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[18:16:46] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[18:16:46] [Server thread/INFO]: [LoginSecurity] Connection to database....
-[18:16:46] [Server thread/ERROR]: ebean.properties not found
-[18:16:46] [Server thread/INFO]: DataSourcePool [LoginSecurityDB] autoCommit[false] transIsolation[SERIALIZABLE] min[2] max[20]
-[18:16:46] [Server thread/INFO]: SubClassFactory parent ClassLoader [org.bukkit.plugin.java.PluginClassLoader]
-[18:16:46] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.PlayerProfile but not supported by DB Platform - ignored
-[18:16:46] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.ActionEntry but not supported by DB Platform - ignored
-[18:16:46] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.PlayerInventory but not supported by DB Platform - ignored
-[18:16:46] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.Migration but not supported by DB Platform - ignored
-[18:16:46] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.PlayerLocation but not supported by DB Platform - ignored
-[18:16:47] [Server thread/INFO]: Entities enhanced[0] subclassed[5]
-[18:16:47] [Server thread/INFO]: [LoginSecurity] Checking database version...
-[18:16:47] [Server thread/INFO]: [LoginSecurity] Applied 0 missing database upgrades.
-[18:16:47] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[18:16:47] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[18:16:47] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5
-[18:16:47] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
-[18:16:47] [Server thread/INFO]: [PingTab] Checking for new versions...
-[18:16:47] [Server thread/INFO]: [PingTab] Plugin is up to date.
-[18:16:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:16:47] [Server thread/INFO]: Done (13.037s)! For help, type "help"
-[18:16:47] [pool-3-thread-4/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+[18:59:08] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[18:59:08] [Server thread/INFO]: Loading properties
+[18:59:08] [Server thread/INFO]: Default game type: SURVIVAL
+[18:59:08] [Server thread/INFO]: Generating keypair
+[18:59:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:59:08] [Server thread/INFO]: Using default channel type
+[18:59:10] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[18:59:15] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[18:59:15] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[18:59:15] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-3-160
+[18:59:15] [Server thread/INFO]: [dynmap] version=git-Bukkit-a4c555b (MC: 1.13.2)
+[18:59:15] [Server thread/INFO]: [dynmap] Mod Support API available
+[18:59:15] [Server thread/INFO]: [HealthBar] Loading HealthBar v1.8.3
+[18:59:15] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v2.1.7
+[18:59:16] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
+[18:59:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:59:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:59:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:59:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:59:16] [Server thread/INFO]: Preparing level "world"
+[18:59:16] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[18:59:17] [Server thread/INFO]: Loaded 524 recipes
+[18:59:19] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: 3595849976629534352)
+[18:59:19] [Server thread/INFO]: Preparing spawn area: 4%
+[18:59:19] [Server thread/INFO]: Preparing spawn area: 8%
+[18:59:19] [Server thread/INFO]: Preparing spawn area: 12%
+[18:59:19] [Server thread/INFO]: Preparing spawn area: 16%
+[18:59:19] [Server thread/INFO]: Preparing spawn area: 20%
+[18:59:19] [Server thread/INFO]: Preparing spawn area: 24%
+[18:59:19] [Server thread/INFO]: Preparing spawn area: 28%
+[18:59:19] [Server thread/INFO]: Preparing spawn area: 32%
+[18:59:19] [Server thread/INFO]: Preparing spawn area: 36%
+[18:59:19] [Server thread/INFO]: Preparing spawn area: 40%
+[18:59:20] [Server thread/INFO]: Preparing spawn area: 44%
+[18:59:20] [Server thread/INFO]: Preparing spawn area: 48%
+[18:59:20] [Server thread/INFO]: Preparing spawn area: 52%
+[18:59:20] [Server thread/INFO]: Preparing spawn area: 56%
+[18:59:20] [Server thread/INFO]: Preparing spawn area: 60%
+[18:59:20] [Server thread/INFO]: Preparing spawn area: 64%
+[18:59:20] [Server thread/INFO]: Preparing spawn area: 68%
+[18:59:20] [Server thread/INFO]: Preparing spawn area: 72%
+[18:59:20] [Server thread/INFO]: Preparing spawn area: 76%
+[18:59:20] [Server thread/INFO]: Preparing spawn area: 80%
+[18:59:20] [Server thread/INFO]: Preparing spawn area: 84%
+[18:59:20] [Server thread/INFO]: Preparing spawn area: 88%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 92%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 96%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 100%
+[18:59:21] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: 3595849976629534352)
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 4%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 8%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 12%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 16%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 20%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 24%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 28%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 32%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 36%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 40%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 44%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 48%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 52%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 56%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 60%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 64%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 68%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 72%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 76%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 80%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 84%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 88%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 92%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 96%
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 100%
+[18:59:21] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: 3595849976629534352)
+[18:59:21] [Server thread/INFO]: Preparing spawn area: 4%
+[18:59:23] [Server thread/INFO]: Preparing spawn area: 8%
+[18:59:23] [Server thread/INFO]: Preparing spawn area: 12%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 16%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 20%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 24%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 28%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 32%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 36%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 40%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 44%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 48%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 52%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 56%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 60%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 64%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 68%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 72%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 76%
+[18:59:24] [Server thread/INFO]: Preparing spawn area: 80%
+[18:59:25] [Server thread/INFO]: Preparing spawn area: 84%
+[18:59:25] [Server thread/INFO]: Preparing spawn area: 88%
+[18:59:25] [Server thread/INFO]: Preparing spawn area: 92%
+[18:59:25] [Server thread/INFO]: Preparing spawn area: 96%
+[18:59:25] [Server thread/INFO]: Preparing spawn area: 100%
+[18:59:25] [Server thread/INFO]: Time elapsed: 6071 ms
+[18:59:25] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[18:59:25] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[18:59:25] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[18:59:25] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-3-160
+[18:59:25] [Server thread/INFO]: [dynmap] Added 11 custom biome mappings
+[18:59:25] [Server thread/INFO]: [dynmap] Using PermissionsEx 1.23.4 for access control
+[18:59:27] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[18:59:28] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[18:59:28] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[18:59:28] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[18:59:30] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[18:59:30] [Server thread/INFO]: [dynmap] version 3.0-beta-3-160 is enabled - core version 3.0-beta-3-160
+[18:59:30] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
+[18:59:30] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[18:59:30] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[18:59:30] [Server thread/INFO]: [dynmap] Loaded 22292 pending tile renders for world 'world'
+[18:59:30] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[18:59:30] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[18:59:30] [Server thread/INFO]: [dynmap] Enabled
+[18:59:30] [Server thread/INFO]: [HealthBar] Enabling HealthBar v1.8.3
+[18:59:30] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v2.1.7
+[18:59:30] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[18:59:30] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[18:59:30] [Server thread/INFO]: [LoginSecurity] Connection to database....
+[18:59:30] [Server thread/ERROR]: ebean.properties not found
+[18:59:30] [Server thread/INFO]: DataSourcePool [LoginSecurityDB] autoCommit[false] transIsolation[SERIALIZABLE] min[2] max[20]
+[18:59:30] [Server thread/INFO]: SubClassFactory parent ClassLoader [org.bukkit.plugin.java.PluginClassLoader]
+[18:59:31] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.PlayerInventory but not supported by DB Platform - ignored
+[18:59:31] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.ActionEntry but not supported by DB Platform - ignored
+[18:59:31] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.PlayerLocation but not supported by DB Platform - ignored
+[18:59:31] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.Migration but not supported by DB Platform - ignored
+[18:59:31] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.PlayerProfile but not supported by DB Platform - ignored
+[18:59:31] [Server thread/INFO]: Entities enhanced[0] subclassed[5]
+[18:59:31] [Server thread/INFO]: [LoginSecurity] Checking database version...
+[18:59:31] [Server thread/INFO]: [LoginSecurity] Applied 0 missing database upgrades.
+[18:59:31] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[18:59:31] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[18:59:31] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5
+[18:59:31] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
+[18:59:31] [Server thread/INFO]: [PingTab] Checking for new versions...
+[18:59:32] [Server thread/INFO]: [PingTab] Plugin is up to date.
+[18:59:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:59:32] [Server thread/INFO]: Done (16.109s)! For help, type "help"
+[18:59:32] [pool-3-thread-4/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -152,20 +152,64 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[18:17:03] [Server thread/INFO]: xatixatix[/127.0.0.1:63078] logged in with entity id 322 at ([world]782.9234989619301, 58.0, -263.73068444165824)
-[18:17:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5058ms or 101 ticks behind
-[18:17:49] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[18:25:17] [Server thread/INFO]: Real_Pepe[/149.200.97.177:54689] logged in with entity id 6684 at ([world]803.7121459034544, 63.0, -267.702924600606)
-[18:25:52] [Netty Server IO #5/INFO]: <Real_Pepe> hali[m
-[18:25:57] [Netty Server IO #1/INFO]: <xatixatix> hali[m
-[18:26:28] [Server thread/INFO]: xatixatix lost connection: Disconnected
-[18:26:28] [Server thread/INFO]: xatixatix left the game
-[18:29:39] [Server thread/INFO]: TalanSzabolcs[/46.251.7.146:54377] logged in with entity id 11356 at ([world]774.9460064036222, 66.0, -261.7929638079216)
-[18:29:56] [Server thread/INFO]: xatixatix[/127.0.0.1:62738] logged in with entity id 12017 at ([world]912.2718111451454, 71.0, -211.4305152942495)
-[18:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
-[18:31:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4176ms or 83 ticks behind
-[18:31:43] [Server thread/WARN]: xatixatix moved too quickly! 0.9690919419841748,4.419999986886978,9.400231229435867
-[18:31:59] [pool-3-thread-7/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+[18:59:39] [Server thread/INFO]: xatixatix[/127.0.0.1:65188] logged in with entity id 228 at ([world]3808.139806558433, 66.0, -2433.503825070118)
+[18:59:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7542ms or 150 ticks behind
+[18:59:41] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[18:59:54] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[18:59:54] [Server thread/INFO]: xatixatix left the game
+[19:00:25] [Server thread/INFO]: TalanSzabolcs[/46.251.7.146:56299] logged in with entity id 585 at ([world_nether]35.80516574305873, 45.0, -106.00317636802339)
+[19:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
+[19:00:32] [Server thread/INFO]: xatixatix[/127.0.0.1:65343] logged in with entity id 667 at ([world]3808.139806558433, 66.0, -2433.503825070118)
+[19:00:44] [Netty Server IO #4/INFO]: <TalanSzabolcs> asdasd[m
+[19:01:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22623ms or 452 ticks behind
+[19:01:12] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[19:01:12] [Server thread/INFO]: xatixatix left the game
+[19:01:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[19:02:08] [Server thread/INFO]: xatixatix[/127.0.0.1:65485] logged in with entity id 1359 at ([world]3818.3984347282026, 64.0, -2428.56461300707)
+[19:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
+[19:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9459ms or 189 ticks behind
+[19:03:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5183ms or 103 ticks behind
+[19:03:36] [Server thread/WARN]: TalanSzabolcs moved too quickly! -12.423798899430238,1.1494240882136921,13.191499693894684
+[19:03:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4456ms or 89 ticks behind
+[19:05:00] [Server thread/INFO]: TalanSzabolcs has made the advancement [A Terrible Fortress]
+[19:05:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[19:05:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2951ms or 59 ticks behind
+[19:05:39] [Server thread/WARN]: Boat (vehicle of xatixatix) moved too quickly! -16.37644112922817,0.0,12.162189382058386
+[19:05:39] [Server thread/WARN]: Boat (vehicle of xatixatix) moved too quickly! -16.698075978304587,0.0,12.399992717500481
+[19:05:39] [Server thread/WARN]: Boat (vehicle of xatixatix) moved too quickly! -17.019712146893198,0.0,12.637794373951692
+[19:05:39] [Server thread/WARN]: Boat (vehicle of xatixatix) moved too quickly! -17.341349503042693,0.0,12.875594519311107
+[19:05:39] [Server thread/WARN]: Boat (vehicle of xatixatix) moved too quickly! -17.66298792799671,0.0,13.113393304688088
+[19:05:39] [Server thread/WARN]: Boat (vehicle of xatixatix) moved too quickly! -17.98462731487507,0.0,13.351190866080287
+[19:05:39] [Server thread/WARN]: Boat (vehicle of xatixatix) moved too quickly! -18.306699809193105,0.0,13.58839124777387
+[19:05:39] [Server thread/WARN]: Boat (vehicle of xatixatix) moved too quickly! -18.629891851038337,0.0,13.82399225326435
+[19:05:39] [Server thread/WARN]: Boat (vehicle of xatixatix) moved too quickly! -18.954754348886127,0.0,14.057121117585666
+[19:05:39] [Server thread/WARN]: Boat (vehicle of xatixatix) moved too quickly! -19.28165856526948,0.0,14.28713161295309
+[19:05:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6472ms or 129 ticks behind
+[19:06:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[19:06:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[19:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3675ms or 73 ticks behind
+[19:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[19:07:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[19:07:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2964ms or 59 ticks behind
+[19:08:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[19:08:48] [Server thread/INFO]: TalanSzabolcs ????? has made the advancement [Into Fire]
+[19:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4295ms or 85 ticks behind
+[19:11:04] [Server thread/WARN]: TalanSzabolcs moved too quickly! 6.791417031297861,0.12129684053920187,7.893249516574286
+[19:11:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[19:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[19:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[19:14:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[19:14:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4281ms or 85 ticks behind
+[19:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[19:15:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2815ms or 56 ticks behind
+[19:15:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[19:15:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19:16:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19:16:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3603ms or 72 ticks behind
+[19:16:33] [Server thread/WARN]: xatixatix moved too quickly! -17.040116852329902,-0.8232407249357578,0.027347141949576326
+[19:16:33] [pool-3-thread-7/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -175,24 +219,13 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[18:32:29] [Netty Server IO #0/INFO]: <xatixatix> plz aludjatok[m
-[18:32:46] [Netty Server IO #5/INFO]: <Real_Pepe> én alszok[m
-[18:33:19] [Netty Server IO #5/INFO]: <Real_Pepe> TalanSzabolcs ? nem alszik[m
-[18:33:27] [Netty Server IO #7/INFO]: <TalanSzabolcs> nem engedi[m
-[18:33:56] [Server thread/INFO]: TalanSzabolcs lost connection: Disconnected
-[18:33:56] [Server thread/INFO]: TalanSzabolcs left the game
-[18:34:04] [Server thread/INFO]: TalanSzabolcs[/46.251.7.146:54543] logged in with entity id 21123 at ([world]807.1195632579529, 71.0, -202.55820024088243)
-[18:34:59] [Server thread/INFO]: Real_Pepe tried to swim in lava
-[18:35:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
-[18:35:59] [Netty Server IO #5/INFO]: <Real_Pepe> oda a cuccom :/[m
-[18:36:51] [Netty Server IO #5/INFO]: <Real_Pepe> én megyek ha nem baj mert fáj a fejem majd lehet hogy jövök[m
-[18:37:05] [Server thread/INFO]: Real_Pepe lost connection: Disconnected
-[18:37:05] [Server thread/INFO]: Real_Pepe left the game
-[18:40:36] [Server thread/INFO]: [0;32;22m[WEB] : [0;37;1mezawebr?ljött[m
-[18:42:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[18:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3088ms or 61 ticks behind
-[18:47:06] [Server thread/WARN]: xatixatix moved too quickly! -1.0415547486613832,2.5870907195829886,9.943657744204643
-[18:47:06] [pool-3-thread-10/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+[19:18:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[19:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[19:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[19:23:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19:25:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
+[19:27:59] [Server thread/INFO]: TalanSzabolcs has made the advancement [Enchanter]
+[19:31:44] [pool-3-thread-10/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -202,20 +235,28 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[18:49:43] [Server thread/INFO]: barycade[/94.21.150.133:42910] logged in with entity id 59809 at ([world]849.9288360104019, 64.0, -267.3613955336916)
-[18:52:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[18:55:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
-[18:55:12] [Server thread/INFO]: TalanSzabolcs has made the advancement [Best Friends Forever]
-[18:55:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[18:56:30] [Netty Server IO #0/INFO]: <xatixatix> zz[m
-[18:56:45] [Server thread/INFO]: TalanSzabolcs was shot by Skeleton
-[18:57:30] [Server thread/INFO]: barycade lost connection: Disconnected
-[18:57:30] [Server thread/INFO]: barycade left the game
-[18:57:35] [Server thread/INFO]: barycade[/94.21.150.133:51168] logged in with entity id 81090 at ([world]849.4486807091197, 64.0, -269.516951846394)
-[18:59:14] [Server thread/INFO]: xatixatix lost connection: Disconnected
-[18:59:15] [Server thread/INFO]: xatixatix left the game
-[18:59:19] [Server thread/INFO]: TalanSzabolcs has made the advancement [Isn't It Iron Pick]
-[19:02:12] [pool-3-thread-13/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+[19:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[19:36:35] [Server thread/INFO]: TalanSzabolcs was burned to death
+[19:37:12] [Server thread/INFO]: Real_Pepe[/149.200.97.177:65090] logged in with entity id 65195 at ([world]800.3694247116772, 63.0, -269.69999998807907)
+[19:37:57] [Netty Server IO #7/INFO]: <Real_Pepe> hali[m
+[19:38:01] [Netty Server IO #6/INFO]: <xatixatix> csáó[m
+[19:38:08] [Netty Server IO #4/INFO]: <TalanSzabolcs> hu[m
+[19:38:12] [Netty Server IO #4/INFO]: <TalanSzabolcs> hi*[m
+[19:39:37] [Server thread/INFO]: BOI[/84.3.227.62:50256] logged in with entity id 73002 at ([world]739.1642148250337, 67.0, -250.23392606099094)
+[19:41:42] [Server thread/WARN]: BOI moved wrongly!
+[19:41:56] [Netty Server IO #1/INFO]: <BOI> zz[m
+[19:42:00] [Netty Server IO #6/INFO]: <xatixatix> z[m
+[19:42:07] [Server thread/INFO]: Real_Pepe lost connection: Disconnected
+[19:42:07] [Server thread/INFO]: Real_Pepe left the game
+[19:42:09] [Server thread/INFO]: TalanSzabolcs lost connection: Disconnected
+[19:42:09] [Server thread/INFO]: TalanSzabolcs left the game
+[19:42:11] [Server thread/INFO]: TalanSzabolcs[/46.251.7.146:56529] logged in with entity id 80524 at ([world]866.2338799365941, 9.0, -335.40111372288897)
+[19:42:12] [Server thread/INFO]: Real_Pepe[/149.200.97.177:65129] logged in with entity id 80667 at ([world]777.0013658504198, 10.0, -370.72359910051665)
+[19:42:33] [Server thread/INFO]: TalanSzabolcs was burned to death
+[19:42:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[19:43:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[19:43:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2979ms or 59 ticks behind
+[19:46:54] [pool-3-thread-13/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -225,15 +266,27 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[19:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
-[19:03:44] [Server thread/INFO]: xatixatix[/127.0.0.1:63628] logged in with entity id 90794 at ([world]1121.3562586304279, 70.0, 923.7875291822023)
-[19:03:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[19:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
-[19:04:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[19:08:30] [Server thread/INFO]: barycade lost connection: Disconnected
-[19:08:30] [Server thread/INFO]: barycade left the game
-[19:09:02] [Server thread/INFO]: barycade[/94.21.150.133:44796] logged in with entity id 102157 at ([world]824.3000000119209, 7.0, -204.086174119089)
-[19:17:21] [pool-3-thread-16/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+[19:48:42] [Server thread/INFO]: Real_Pepe has made the advancement [A Seedy Place]
+[19:49:02] [Netty Server IO #5/INFO]: <Real_Pepe> hi[m
+[19:49:05] [Netty Server IO #1/INFO]: <BOI> hali[m
+[19:49:36] [Netty Server IO #5/INFO]: <Real_Pepe> hozzak valamit?[m
+[19:49:38] [Server thread/INFO]: xatixatix was burned to death
+[19:49:41] [Netty Server IO #1/INFO]: <BOI> nem kell köszi[m
+[19:49:44] [Netty Server IO #5/INFO]: <Real_Pepe> ok[m
+[19:52:51] [Netty Server IO #5/INFO]: <Real_Pepe> ZZZzzz[m
+[19:52:57] [Netty Server IO #6/INFO]: <xatixatix> z[m
+[19:53:02] [Netty Server IO #1/INFO]: <BOI> z[m
+[19:53:05] [Server thread/INFO]: TalanSzabolcs lost connection: Disconnected
+[19:53:05] [Server thread/INFO]: TalanSzabolcs left the game
+[19:53:07] [Server thread/INFO]: TalanSzabolcs[/46.251.7.146:56538] logged in with entity id 128017 at ([world]587.9515361528009, 10.0, -390.69999998807907)
+[19:56:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[19:56:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[19:57:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19:57:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[19:57:42] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[19:57:42] [Server thread/INFO]: xatixatix left the game
+[19:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[20:02:04] [pool-3-thread-16/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -243,32 +296,35 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[19:19:16] [Server thread/INFO]: barycade has made the advancement [We Need to Go Deeper]
-[19:19:51] [Netty Server IO #2/INFO]: <TalanSzabolcs> w[m
-[19:20:00] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:25:12] [Server thread/INFO]: xatixatix has made the advancement [Enchanter]
-[19:26:04] [Server thread/INFO]: barycade has made the advancement [Enchanter]
-[19:31:37] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:31:38] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:31:38] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:31:38] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:31:38] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:31:38] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:31:38] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:31:39] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:31:39] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:31:39] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:31:40] [Netty Server IO #0/INFO]: <xatixatix> z[m
-[19:31:42] [Server thread/INFO]: barycade lost connection: Disconnected
-[19:31:42] [Server thread/INFO]: barycade left the game
-[19:31:46] [Server thread/INFO]: barycade[/94.21.150.133:49011] logged in with entity id 139517 at ([world]970.0659177625439, 11.0, -235.1877831357212)
-[19:31:57] [Netty Server IO #4/INFO]: <barycade> zzz[m
-[19:31:58] [Netty Server IO #4/INFO]: <barycade> z[m
-[19:32:00] [Netty Server IO #4/INFO]: <barycade> z[m
-[19:32:01] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:32:03] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:32:04] [Netty Server IO #2/INFO]: <TalanSzabolcs> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[19:32:21] [pool-3-thread-19/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+[20:02:57] [Netty Server IO #5/INFO]: <Real_Pepe> TalanSzabolcs ilyen fát hogy lehet csinálni?[m
+[20:03:50] [Server thread/WARN]: Real_Pepe was kicked for floating too long!
+[20:03:50] [Server thread/INFO]: Real_Pepe lost connection: Flying is not enabled on this server
+[20:03:50] [Server thread/INFO]: Real_Pepe left the game
+[20:03:50] [Server thread/WARN]: handleDisconnection() called twice
+[20:03:57] [Server thread/INFO]: Real_Pepe[/149.200.97.177:65223] logged in with entity id 147781 at ([world]800.5, 63.11357137895465, -271.5)
+[20:04:00] [Server thread/INFO]: BOI lost connection: Disconnected
+[20:04:00] [Server thread/INFO]: BOI left the game
+[20:04:08] [Server thread/INFO]: BOI[/84.3.227.62:50367] logged in with entity id 147900 at ([world]844.8229444961415, 71.0, -306.4398250124887)
+[20:04:14] [Server thread/INFO]: BOI lost connection: Disconnected
+[20:04:14] [Server thread/INFO]: BOI left the game
+[20:04:15] [Netty Server IO #0/INFO]: <Real_Pepe> ki dobot hogy flyolok :D XD[m
+[20:04:25] [Netty Server IO #0/INFO]: <Real_Pepe> ZZzzzZZ[m
+[20:07:54] [Server thread/INFO]: TalanSzabolcs has made the advancement [Hot Stuff]
+[20:08:08] [Netty Server IO #7/INFO]: <TalanSzabolcs> pepe kell neked valami k? vagy ilyenek?[m
+[20:08:15] [Netty Server IO #0/INFO]: <Real_Pepe> mert?[m
+[20:08:21] [Netty Server IO #7/INFO]: <TalanSzabolcs> égetem el az összeset[m
+[20:08:25] [Netty Server IO #0/INFO]: <Real_Pepe> ok[m
+[20:08:26] [Netty Server IO #7/INFO]: <TalanSzabolcs> csak az ércek maradnak[m
+[20:09:08] [Netty Server IO #0/INFO]: <Real_Pepe> ilyen fát hogy lehet csinálni?[m
+[20:09:26] [Netty Server IO #0/INFO]: <Real_Pepe> wow[m
+[20:09:29] [Netty Server IO #7/INFO]: <TalanSzabolcs> a fára jokkblik[m
+[20:09:36] [Netty Server IO #0/INFO]: <Real_Pepe> ja ok köszi[m
+[20:09:41] [Netty Server IO #7/INFO]: <TalanSzabolcs> figyeld[m
+[20:09:50] [Netty Server IO #0/INFO]: <Real_Pepe> aha ok[m
+[20:10:18] [Netty Server IO #0/INFO]: <Real_Pepe> ez kinek a háza?[m
+[20:10:32] [Netty Server IO #7/INFO]: <TalanSzabolcs> nemtom[m
+[20:15:24] [Netty Server IO #0/INFO]: <Real_Pepe> Zz[m
+[20:17:03] [pool-3-thread-19/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -278,202 +334,28 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[19:40:19] [Server thread/INFO]: TalanSzabolcs has made the advancement [We Need to Go Deeper]
-[19:40:54] [Netty Server IO #2/INFO]: <TalanSzabolcs> 85 581 63 00000 -31 915[m
-[19:42:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
-[19:44:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[19:47:25] [pool-3-thread-22/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[19:47:34] [Netty Server IO #0/INFO]: <xatixatix> z[m
-[19:48:07] [Server thread/INFO]: barycade was blown up by Creeper
-[19:48:22] [Netty Server IO #2/INFO]: <TalanSzabolcs> 85 581 63 00000 -31 915[m
-[19:49:27] [Server thread/INFO]: TalanSzabolcs lost connection: Disconnected
-[19:49:27] [Server thread/INFO]: TalanSzabolcs left the game
-[19:49:32] [Server thread/INFO]: TalanSzabolcs[/46.251.7.146:54623] logged in with entity id 167891 at ([world_nether]80.9918685570978, 85.0, 32.98743780166522)
-[19:51:44] [Netty Server IO #4/INFO]: <barycade> 85 581 63[m
-[19:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:52:41] [Server thread/INFO]: TalanSzabolcs lost connection: Disconnected
-[19:52:41] [Server thread/INFO]: TalanSzabolcs left the game
-[19:52:56] [Server thread/INFO]: Ruby[/89.135.206.129:63013] logged in with entity id 175202 at ([world]761.5, 66.0, -264.5)
-[19:54:39] [Server thread/INFO]: Ruby lost connection: Disconnected
-[19:54:39] [Server thread/INFO]: Ruby left the game
-[19:57:14] [Server thread/INFO]: padi2004[/89.135.206.129:63237] logged in with entity id 184055 at ([world]777.5, 66.0, -263.5)
-[19:58:50] [Server thread/INFO]: padi2004 has made the advancement [Isn't It Iron Pick]
-[19:59:03] [Server thread/INFO]: padi2004 has made the advancement [Stone Age]
-[19:59:12] [Server thread/INFO]: padi2004 has made the advancement [Acquire Hardware]
-[19:59:45] [Server thread/INFO]: padi2004 has made the advancement [Suit Up]
-[20:02:27] [pool-3-thread-25/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[20:06:58] [Netty Server IO #4/INFO]: <barycade> 61 72 114[m
-[20:17:27] [pool-3-thread-28/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[20:17:30] [Server thread/INFO]: xatixatix was burned to death
-[20:19:17] [Server thread/INFO]: padi2004 has made the advancement [Diamonds!]
-[20:25:13] [Server thread/INFO]: padi2004 ????? has made the advancement [Monster Hunter]
-[20:32:27] [pool-3-thread-31/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[20:35:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
-[20:41:13] [Server thread/INFO]: barycade has made the advancement [Cover Me With Diamonds]
-[20:41:46] [Server thread/INFO]: padi2004 has made the advancement [Enchanter]
-[20:44:01] [Server thread/INFO]: padi2004 has made the advancement [Sweet Dreams]
-[20:45:21] [Server thread/INFO]: padi2004 has made the advancement [Cover Me With Diamonds]
-[20:45:53] [Server thread/INFO]: barycade lost connection: Disconnected
-[20:45:53] [Server thread/INFO]: barycade left the game
-[20:47:30] [pool-3-thread-34/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[20:48:30] [Server thread/INFO]: padi2004 has made the advancement [We Need to Go Deeper]
-[20:53:31] [Server thread/INFO]: barycade[/94.21.150.133:42479] logged in with entity id 290547 at ([world]784.6459892930446, 59.0, -267.69999998807907)
-[20:58:46] [Server thread/INFO]: barycade has made the advancement [A Terrible Fortress]
-[20:58:47] [Server thread/INFO]: padi2004 has made the advancement [A Terrible Fortress]
-[20:58:48] [Server thread/INFO]: xatixatix has made the advancement [A Terrible Fortress]
-[20:59:10] [Server thread/INFO]: barycade has made the advancement [Ice Bucket Challenge]
-[20:59:13] [Server thread/INFO]: padi2004 lost connection: Disconnected
-[20:59:13] [Server thread/INFO]: padi2004 left the game
-[20:59:47] [Server thread/INFO]: xatixatix has made the advancement [A Seedy Place]
-[20:59:55] [Server thread/INFO]: barycade has made the advancement [Into Fire]
-[21:01:33] [Server thread/INFO]: barycade has completed the challenge [Return to Sender]
-[21:02:06] [Server thread/INFO]: BOI[/84.3.227.62:64351] logged in with entity id 293258 at ([world]781.781043856175, 58.0, -262.6900755841578)
-[21:02:12] [Netty Server IO #2/INFO]: <barycade> csáo[m
-[21:02:29] [pool-3-thread-37/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[21:02:30] [Netty Server IO #3/INFO]: <BOI> hali[m
-[21:02:34] [Netty Server IO #3/INFO]: <BOI> mingy jövök dc re[m
-[21:02:55] [Netty Server IO #3/INFO]: <BOI> szix=boiiiiiiiii[m
-[21:03:50] [Netty Server IO #3/INFO]: <BOI> széép volt xd[m
-[21:04:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
-[21:05:21] [Netty Server IO #3/INFO]: <BOI> na dc-n merre vagytok[m
-[21:11:26] [Server thread/INFO]: xatixatix lost connection: Disconnected
-[21:11:26] [Server thread/INFO]: xatixatix left the game
-[21:17:31] [pool-3-thread-40/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[21:18:00] [Server thread/INFO]: barycade lost connection: Disconnected
-[21:18:00] [Server thread/INFO]: barycade left the game
-[21:20:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
-[21:21:46] [Server thread/INFO]: xatixatix[/127.0.0.1:49716] logged in with entity id 318018 at ([world]782.4404986826079, 58.0, -263.07481451600336)
-[21:21:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[21:23:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
-[21:25:47] [Netty Server IO #0/INFO]: <xatixatix> z[m
-[21:26:00] [Server thread/INFO]: [0;32;22m[WEB] : [0;37;1mhalalala[m
-[21:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2439ms or 48 ticks behind
-[21:30:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[21:31:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[21:32:44] [pool-3-thread-43/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[21:33:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
-[21:34:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[21:34:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[21:37:33] [Netty Server IO #3/INFO]: <BOI> halalala[m
-[21:47:50] [pool-3-thread-46/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[21:48:56] [Netty Server IO #0/INFO]: <xatixatix> z[m
-[21:48:58] [Netty Server IO #3/INFO]: <BOI> z[m
-[21:49:00] [Netty Server IO #3/INFO]: <BOI> zö[m
-[21:49:10] [Netty Server IO #0/INFO]: <xatixatix> asd[m
-[21:49:21] [Server thread/INFO]: [0;32;22m[WEB] BOI: [0;37;1mPÍNÖSZ[m
-[21:59:33] [Server thread/INFO]: [0;32;22m[WEB] : [0;37;1mszia[m
-[21:59:46] [Netty Server IO #0/INFO]: <xatixatix> z[m
-[22:01:03] [Netty Server IO #3/INFO]: <BOI> zö[m
-[22:02:50] [pool-3-thread-49/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
-java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[22:04:56] [Server thread/INFO]: BOI lost connection: Disconnected
-[22:04:56] [Server thread/INFO]: BOI left the game
-[22:05:58] [Server thread/INFO]: xatixatix lost connection: Disconnected
-[22:05:58] [Server thread/INFO]: xatixatix left the game
-[22:09:29] [Server thread/INFO]: Stopping the server
-[22:09:29] [Server thread/INFO]: Stopping server
-[22:09:29] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
-[22:09:29] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v2.1.7
-[22:09:29] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[22:09:29] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[22:09:30] [Server thread/INFO]: [HealthBar] Disabling HealthBar v1.8.3
-[22:09:30] [Server thread/INFO]: HealthBar disabled, all the health bars have been removed.
-[22:09:30] [Server thread/INFO]: [dynmap] Disabling dynmap v3.0-beta-3-160
-[22:09:30] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[22:09:30] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[22:09:31] [Server thread/INFO]: [dynmap] Disabled
-[22:09:31] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[22:09:31] [Server thread/INFO]: Saving players
-[22:09:31] [Server thread/INFO]: Saving worlds
-[22:09:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:09:31] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[22:09:31] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[20:17:40] [Netty Server IO #0/INFO]: <Real_Pepe> megyek zuhanyzok addig hali[m
+[20:17:41] [Server thread/INFO]: Real_Pepe lost connection: Disconnected
+[20:17:41] [Server thread/INFO]: Real_Pepe left the game
+[20:17:45] [Netty Server IO #7/INFO]: <TalanSzabolcs> hi[m
+[20:20:24] [Server thread/INFO]: TalanSzabolcs lost connection: Disconnected
+[20:20:24] [Server thread/INFO]: TalanSzabolcs left the game
+[20:20:28] [Server thread/INFO]: Stopping the server
+[20:20:28] [Server thread/INFO]: Stopping server
+[20:20:28] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
+[20:20:28] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v2.1.7
+[20:20:28] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[20:20:28] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[20:20:28] [Server thread/INFO]: [HealthBar] Disabling HealthBar v1.8.3
+[20:20:28] [Server thread/INFO]: HealthBar disabled, all the health bars have been removed.
+[20:20:28] [Server thread/INFO]: [dynmap] Disabling dynmap v3.0-beta-3-160
+[20:20:28] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[20:20:28] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[20:20:28] [Server thread/INFO]: [dynmap] Saved 26827 pending tile renders in world 'world'
+[20:20:28] [Server thread/INFO]: [dynmap] Disabled
+[20:20:28] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[20:20:28] [Server thread/INFO]: Saving players
+[20:20:28] [Server thread/INFO]: Saving worlds
+[20:20:28] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[20:20:28] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[20:20:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
